@@ -8,11 +8,11 @@ after that, simply run `ng serve` to run the program (can add `--open` for it to
 ## Created By:
 ### Frontend
 Tim Stumper  
-Troy Dunbar
+Troy Dunbar  
 Giancarlo Padron  
 ### Backend
-Jonathan Mantello
+Jonathan Mantello  
 Jacob Eul  
 ### Analyst
-Pranav Viswanathan 
+Pranav Viswanathan  
 Salona Khanal
