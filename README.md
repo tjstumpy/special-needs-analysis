@@ -1,5 +1,5 @@
 # Student Loan calculator
-The second Angular project I ever worked on. A multi page that helps the user understands the costs and benefits they could have for dependents with special needs.
+The second Angular project I ever worked on. A multi page that helps the user understands the costs and benefits they could have for dependents with special needs. (I only helped develop the front end)
 
 ## Notes
 to run, make sure to install angular by using `npm install @angular/cli`  
